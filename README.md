@@ -1,12 +1,19 @@
+**CUSTOMER SEGMENTATION**
+
 **1. Context**
+
 “I’m a data analyst, and the Chief Marketing Officer has told me that previous marketing
 campaigns have not been as effective as they were expected to be. I need to analyze the data
 set to understand customer behavior and propose data-driven solutions.”
+
 **2. Objective**
+
 Analyze the provided dataset containing customer information and purchasing behavior to
 make informed decisions to identify patterns, trends, and correlations that will help to
 understand customer needs better and reach the right customer with right messaging.
+
 **3. About the dataset**
+
 Data description is as follows;
 1. Response (target) - 1 if customer accepted the offer in the last campaign, 0 otherwise
 2. ID - Unique ID of each customer
@@ -31,9 +38,15 @@ be shipped through the mail)
 20. NumWebPurchases - number of purchases made through the company's website
 21. NumWebVisitsMonth - number of visits to company's website in the last month
 22. Recency - number of days since the last purchase
+
 **4. Analysis Process**
+
 Task 1: Data Validation
+
 Task 2: Exploratory Data Analysis
+
 Task 3: K-Mean clustering
+
 Task 4: Insights and Customer Segmentation
+
 Task 5: Conclusion and Recommendation
